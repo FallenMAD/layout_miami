@@ -1,9 +1,0 @@
-.category {
-  &__place {
-    margin: 0 0 40px;
-
-    @include onTable {
-      margin-bottom: 64px;
-    }
-  }
-}
